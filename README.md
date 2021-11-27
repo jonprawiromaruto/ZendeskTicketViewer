@@ -1,3 +1,4 @@
+![zendesk-logo](https://user-images.githubusercontent.com/78817848/143721061-7f1b5c6a-4b89-4e6b-a2d9-dc8baea0c717.png)
 # ZendeskTicketViewer
  Zendesk Ticket viewer with C 
 
